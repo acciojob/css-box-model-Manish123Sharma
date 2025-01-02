@@ -1,2 +1,16 @@
 
 /* Your CSS Code here. */
+/* .outer_con{
+	border: 2px solid black;
+	width: 480px;
+} */
+.first_con{
+	margin: 20px;
+	border: 15px solid blue;
+	width: 400px;
+}
+.final_con{
+	padding: 50px;
+	background-color: lightblue;
+	width: 300px;
+}
